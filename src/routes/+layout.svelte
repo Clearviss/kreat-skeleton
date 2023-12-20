@@ -29,32 +29,13 @@
 		<!-- App Bar -->
 		<AppBar>
 			<svelte:fragment slot="lead">
-				<img src="./astro.png" alt="Kreat-Logo" width="300px" />
+				<img src="./astro.png" alt="Kreat-Logo" width="200px" />
 			</svelte:fragment>
 			<svelte:fragment slot="trail">
-				<a
-					class="btn btn-sm variant-ghost-surface"
-					href="https://discord.gg/EXqV7W8MtY"
-					target="_blank"
-					rel="noreferrer"
-				>
-					Discord
-				</a>
-				<a
-					class="btn btn-sm variant-ghost-surface"
-					href="https://twitter.com/SkeletonUI"
-					target="_blank"
-					rel="noreferrer"
-				>
-					Twitter
-				</a>
-				<a
-					class="btn btn-sm variant-ghost-surface"
-					href="https://github.com/skeletonlabs/skeleton"
-					target="_blank"
-					rel="noreferrer"
-				>
-					GitHub
+				<a class="btn btn-sm variant-ghost-surface" href="/about" rel="noreferrer"> O nas </a>
+				<a class="btn btn-sm variant-ghost-surface" href="/" rel="noreferrer"> Kreat </a>
+				<a class="btn btn-sm variant-ghost-surface" href="https://woolgra.eu" rel="noreferrer">
+					Woolgra
 				</a>
 			</svelte:fragment>
 		</AppBar>
