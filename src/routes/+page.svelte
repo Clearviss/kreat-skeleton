@@ -1,10 +1,13 @@
-<!-- YOU CAN DELETE EVERYTHING IN THIS PAGE -->
-
 <div class="container h-full mx-auto flex justify-center items-center">
 	<div class="space-y-10 text-center flex flex-col items-center">
 		<h2 class="h2">Witaj na Kreacie!</h2>
 		<div class="flex justify-center space-x-2">
-			<a class="btn variant-filled" href="/download" target="_blank" rel="noreferrer">
+			<a
+				class="btn variant-filled"
+				href="https://drive.google.com/drive/folders/1zq7WwiIaIR7UC3AkkqMx1EdMR4-a3YiV?usp=sharing"
+				target="_blank"
+				rel="noreferrer"
+			>
 				Pobierz Kreata! - Build 0.1v
 			</a>
 		</div>
